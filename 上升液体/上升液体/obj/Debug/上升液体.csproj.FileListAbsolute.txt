@@ -1,0 +1,8 @@
+D:\编程\Tshockplunge\上升液体\上升液体\bin\Debug\上升液体.dll
+D:\编程\Tshockplunge\上升液体\上升液体\bin\Debug\上升液体.pdb
+D:\编程\Tshockplunge\上升液体\上升液体\bin\Debug\Newtonsoft.Json.dll
+D:\编程\Tshockplunge\上升液体\上升液体\obj\Debug\上升液体.csproj.AssemblyReference.cache
+D:\编程\Tshockplunge\上升液体\上升液体\obj\Debug\上升液体.csproj.CoreCompileInputs.cache
+D:\编程\Tshockplunge\上升液体\上升液体\obj\Debug\上升液体.csproj.CopyComplete
+D:\编程\Tshockplunge\上升液体\上升液体\obj\Debug\上升液体.dll
+D:\编程\Tshockplunge\上升液体\上升液体\obj\Debug\上升液体.pdb
